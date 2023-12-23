@@ -1,0 +1,14 @@
+C:\Users\olgun\OneDrive\Masaüstü\Kriptoloji\MainProj\MainProj\bin\Debug\net7.0\MainProj.exe
+C:\Users\olgun\OneDrive\Masaüstü\Kriptoloji\MainProj\MainProj\bin\Debug\net7.0\MainProj.deps.json
+C:\Users\olgun\OneDrive\Masaüstü\Kriptoloji\MainProj\MainProj\bin\Debug\net7.0\MainProj.runtimeconfig.json
+C:\Users\olgun\OneDrive\Masaüstü\Kriptoloji\MainProj\MainProj\bin\Debug\net7.0\MainProj.dll
+C:\Users\olgun\OneDrive\Masaüstü\Kriptoloji\MainProj\MainProj\bin\Debug\net7.0\MainProj.pdb
+C:\Users\olgun\OneDrive\Masaüstü\Kriptoloji\MainProj\MainProj\obj\Debug\net7.0\MainProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olgun\OneDrive\Masaüstü\Kriptoloji\MainProj\MainProj\obj\Debug\net7.0\MainProj.AssemblyInfoInputs.cache
+C:\Users\olgun\OneDrive\Masaüstü\Kriptoloji\MainProj\MainProj\obj\Debug\net7.0\MainProj.AssemblyInfo.cs
+C:\Users\olgun\OneDrive\Masaüstü\Kriptoloji\MainProj\MainProj\obj\Debug\net7.0\MainProj.csproj.CoreCompileInputs.cache
+C:\Users\olgun\OneDrive\Masaüstü\Kriptoloji\MainProj\MainProj\obj\Debug\net7.0\MainProj.dll
+C:\Users\olgun\OneDrive\Masaüstü\Kriptoloji\MainProj\MainProj\obj\Debug\net7.0\refint\MainProj.dll
+C:\Users\olgun\OneDrive\Masaüstü\Kriptoloji\MainProj\MainProj\obj\Debug\net7.0\MainProj.pdb
+C:\Users\olgun\OneDrive\Masaüstü\Kriptoloji\MainProj\MainProj\obj\Debug\net7.0\MainProj.genruntimeconfig.cache
+C:\Users\olgun\OneDrive\Masaüstü\Kriptoloji\MainProj\MainProj\obj\Debug\net7.0\ref\MainProj.dll
