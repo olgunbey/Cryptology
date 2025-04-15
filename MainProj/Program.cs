@@ -101,13 +101,8 @@ AesEncrypt aesEncrypt = new AesEncrypt(aes, keyAes);
   
 
 var aliceRSA = new RSACryptoServiceProvider(2048);
-var bobRSA = new RSACryptoServiceProvider(2048);
-    
       RSAParameters alicePrivateKeyRSA = aliceRSA.ExportParameters(true);
 
-  
-      // Alice bir mesajı imzalar
-      string messageFromAlice = "Bu bir örnek mesajdır.";
       byte[] signatureFromAlice = RSASignData.SignData(EncryptData, alicePrivateKeyRSA);
   
       Console.WriteLine("Alice tarafından oluşturulan imza: " + Convert.ToBase64String(signatureFromAlice));
